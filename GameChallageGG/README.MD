@@ -9,8 +9,6 @@ Use Cheat Engine and some kind of decompiler, like [Ghidra](https://github.com/N
 > #### I didn't know anything about creating games before, but I do know C/C++ and Python. I'm diving into game development now, and it's been quite a learning experience! 🙈
 > 
 > #### You can check out the awesome video for John Hammond on YouTube walkthrough : [Video](https://youtu.be/Y0O3SHrBFbE?si=lc80MUMy82FXmE59).
-> 
-> 
 
 <span style="color:red;">Make Sure You Disabled AntiCheat</span>
 
@@ -18,23 +16,23 @@ Use Cheat Engine and some kind of decompiler, like [Ghidra](https://github.com/N
 
 Guide for each level:
 
-### [Level 1](level1.MD)
+### [Level 1](level1.md)
 
-### [Level 2](level2.MD)
+### [Level 2](level2.md)
 
-### [Level 3](level3.MD)
+### [Level 3](level3.md)
 
-### [Level 4](level4.MD)
+### [Level 4](level4.md)
 
-### [Level 5](level5.MD)
+### [Level 5](level5.md)
 
-### [Level 6](level6.MD)
+### [Level 6](level6.md)
 
-### [Level 7](level7.MD)
+### [Level 7](level7.md)
 
-### [Level 8](level8.MD)
+### [Level 8](level8.md)
 
-### [Level 9](level9.MD)
+### [Level 9](level9.md)
 
 #### Tools Overview
 

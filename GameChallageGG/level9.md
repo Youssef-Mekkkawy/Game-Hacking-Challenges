@@ -6,8 +6,6 @@ Stop the timer countdown and ensure the game progresses correctly upon completio
 
 ## Solution
 
-
-
 1. **Modify the `L9_Timer` Class:**
    
    - Open the game’s `Assembly-CSharp.dll` file in dnSpyEx.
