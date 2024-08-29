@@ -18,23 +18,23 @@ Use Cheat Engine and some kind of decompiler, like [Ghidra](https://github.com/N
 
 Guide for each level:
 
-### [Level 1](level1.md)
+### [Level 1](level1.MD)
 
-### [Level 2](level2.md)
+### [Level 2](level2.MD)
 
-### [Level 3](level3.md)
+### [Level 3](level3.MD)
 
-### [Level 4](level4.md)
+### [Level 4](level4.MD)
 
-### [Level 5](level5.md)
+### [Level 5](level5.MD)
 
-### [Level 6](level6.md)
+### [Level 6](level6.MD)
 
-### [Level 7](level7.md)
+### [Level 7](level7.MD)
 
-### [Level 8](level8.md)
+### [Level 8](level8.MD)
 
-### [Level 9](level9.md)
+### [Level 9](level9.MD)
 
 #### Tools Overview
 
