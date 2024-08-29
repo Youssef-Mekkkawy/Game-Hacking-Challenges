@@ -14,4 +14,4 @@ At the start of this level, there's a message saying no more cheating, but you'v
 
 <br/>
 
-# [Next Challange](level9.MD)
+# [Next Challange](level9.md)

@@ -38,4 +38,4 @@ GHCTF{oops_sorry_mr_unicorn}
 
 </details>
 
-# [Next Challange](level6.MD)
+# [Next Challange](level6.md)

@@ -38,4 +38,4 @@ At the start of this level, there's a message saying no more cheating, but you'v
 GHCTF{nice_shooting_tex}  
 </details>
 
-# [Next Challange](level8.MD)
+# [Next Challange](level8.md)
