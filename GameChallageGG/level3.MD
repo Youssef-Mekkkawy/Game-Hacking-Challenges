@@ -18,5 +18,4 @@ Flag
 <summary>Flag</summary>
 GHCTF{the_best_defense_is_offense}
 <br/>
-
 # [Next Challange](level4.MD)
