@@ -66,4 +66,4 @@ Save the changes and reopen the game. The timer countdown should stop, and the l
 <details>
 <summary>Flag</summary>
 GHCTF{zoom_zoom_money_maker}  
-<br/>
+</details>

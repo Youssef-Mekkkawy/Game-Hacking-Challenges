@@ -34,7 +34,8 @@ The Unicorn Raft now has a laser fence guarded by laser turrets. The goal is to 
 
 <details>
 <summary>Flag</summary>
-GHCTF{oops_sorry_mr_unicorn}  
-<br/>
+GHCTF{oops_sorry_mr_unicorn}
+
+</details>
 
 # [Next Challange](level6.MD)

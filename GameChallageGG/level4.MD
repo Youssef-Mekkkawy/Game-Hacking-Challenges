@@ -46,6 +46,7 @@ To solve this level, follow these steps:
 <details>
 <summary>Flag</summary>
 GHCTF{oops_sorry_mr_unicorn}  
-<br/>
+
+</details>
 
 # [Next Challange](level5.MD)

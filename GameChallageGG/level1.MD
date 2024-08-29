@@ -131,7 +131,8 @@ if (base.CompareTag("Player"))
 GHCTF{this_is_the_first_flag_woot
 }  
 <br/>
+</details>
 
 </details>
 
-# [Next Challange](level2.MD)
+# [Next Challage](L2.MD)

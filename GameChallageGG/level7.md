@@ -36,6 +36,6 @@ At the start of this level, there's a message saying no more cheating, but you'v
 <details>
 <summary>Flag</summary>
 GHCTF{nice_shooting_tex}  
-<br/>
+</details>
 
 # [Next Challange](level8.MD)

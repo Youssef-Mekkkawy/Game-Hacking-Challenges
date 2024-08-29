@@ -37,6 +37,7 @@ A guardian is protecting the exit and requires a fish, but you only have an appl
 <details>
 <summary>Flag</summary>
 GHCTF{Kitty_appreciates_the_fish_magic}  
-<br/>
+</details>
+
 
 # [Next Challange](level7.MD)
